@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm BigBigDoudou, also known as BigDoudou or BigBigBigDoudou.
+I am BigBigDoudou, also known as BigDoudou or BigBigBigDoudou.
 
-I'm fullstack developer with a predilection to backend. I love `Ruby` and `Javascript` and I'm currently learning `Go`.
+I am a fullstack developer with a predilection for backend. I love `Ruby on Rails` and `React` and I'm currently learning `Go`.
