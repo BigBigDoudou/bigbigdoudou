@@ -20,7 +20,7 @@ Want to see some stuff?
 
 ---
 
-I Like to play on :video_game: [codingame](https://www.codingame.com/), I suggest some documented solutions to the puzzles [here](https://github.com/BigBigDoudou/coding_game).
+I Like to play on :video_game: [codingame](https://www.codingame.com/), I suggest some documented solutions to puzzles [here](https://github.com/BigBigDoudou/coding_game).
 
 ---
 
