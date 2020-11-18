@@ -16,7 +16,7 @@ Want to see some stuff?
 
 :key: [binary_codes](https://github.com/BigBigDoudou/binary_codes) is an experimentation with binaries to help storing and comparing combinations in a Ruby on Rails application.
 
-:key: [binenc] is an other experimentation with binaries as a Go package.
+:key: [binenc](https://github.com/BigBigDoudou/binenc) is an other experimentation with binaries as a Go package.
 
 ---
 
