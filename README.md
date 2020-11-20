@@ -8,7 +8,7 @@ I am a fullstack developer with a predilection for backend. I love `Ruby on Rail
 
 Want to see some stuff?
 
-:lock: [otoroshi](https://github.com/BigBigDoudou/otoroshi) is a Ruby gem to easily define properties and validations for thrustable objects and easier debug.
+:shinto_shrine: [otoroshi](https://github.com/BigBigDoudou/otoroshi) is a Ruby gem to easily define properties and validations for thrustable objects and easier debug.
 
 :seedling: [dirty_seed](https://github.com/BigBigDoudou/dirty_seed) is a Ruby gem that populate the database of a Ruby on Rails application with bunch of dirty (but valid) data to quickly test application rendering.
 
