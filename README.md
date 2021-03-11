@@ -10,7 +10,7 @@ Want to see some stuff?
 
 💎 [gems_bond](https://github.com/BigBigDoudou/gems_bond) is a Ruby gems that fetches information about your project gems and scores them. When was the last commit? How many contributors worked on it? And many more!
 
-🌱 [dirty_seed](https://github.com/BigBigDoudou/dirty_seed) is a Ruby gem that populate the database of a Ruby on Rails application with bunch of dirty (but valid) data to quickly test application rendering.
+🌱 [dirty_seed](https://github.com/BigBigDoudou/dirty_seed) is a Rails gem that populate the database application with bunch of dirty (but valid) data to quickly test application rendering.
 
 ⛩️ [otoroshi](https://github.com/BigBigDoudou/otoroshi) is a Ruby gem to easily define properties and validations for thrustable objects and easier debug.
 
